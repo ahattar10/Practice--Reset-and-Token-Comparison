@@ -50,11 +50,12 @@ All three resets produced nearly identical visuals because `component-styles.css
 ## Screenshots
 
 
-- 
-- reset-none content: ![content](screenshots/before%20part%201%20reset_none.png)
-- reset-none actions: ![actions](screenshots/before%20part%202%20reset_none.png)
-- reset-broad content: ![content](screenshots/after%20part%201%20reset-borad.png)
-- reset-broad actions: ![actions](screenshots/after%20part%202%20reset-borad.png)
-- reset-selective content: ![content](screenshots/after%20part%201%20rese-selective.png)
-- reset-selective actions: ![actions](screenshots/after%20part%202%20reset-selective.png)
-- Part B tokens + theme-alt: ![tokens](screenshots/after%20css%20change.png)
+-
+
+- reset-none content: ![content](screenshots/01-reset-none-content.png)
+- reset-none actions: ![actions](screenshots/02-reset-none-actions.png)
+- reset-broad content: ![content](screenshots/03-reset-broad-content.png)
+- reset-broad actions: ![actions](screenshots/04-reset-broad-actions.png)
+- reset-selective content: ![content](screenshots/05-reset-selective-content.png)
+- reset-selective actions: ![actions](screenshots/06-reset-selective-actions.png)
+- Part B tokens + theme-alt: ![tokens](screenshots/07-after-css-change.png)
