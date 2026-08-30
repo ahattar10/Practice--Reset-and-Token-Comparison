@@ -50,7 +50,7 @@ All three resets produced nearly identical visuals because `component-styles.css
 ## Screenshots
 
 
--
+
 - reset-none content: ![content](screenshots/01-reset-none-content.png)
 - reset-none actions: ![actions](screenshots/02-reset-none-actions.png)
 - reset-broad content: ![content](screenshots/03-reset-broad-content.png)
