@@ -9,6 +9,15 @@
   --radius-card: .5rem;
 }
 
+--font-body: Arial, sans-serif;
+
+--space-card: 1rem;
+
+--radius-card: .5rem;
+--radius-button: .25rem;
+
+
+
 body {
   background-color: var(--color-page);
   color: var(--color-text);
