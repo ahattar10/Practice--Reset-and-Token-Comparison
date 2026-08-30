@@ -1,0 +1,2 @@
+/* TODO: Build a short, justified reset. Preserve useful semantics and visible focus. */
+*, *::before, *::after { box-sizing: border-box; }

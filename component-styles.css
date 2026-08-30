@@ -1,0 +1,20 @@
+:root {
+  /* TODO: Replace repeated literals with raw and semantic tokens. */
+  --color-action: #8c1d40;
+  --color-accent: #ffc627;
+  --color-surface: #ffffff;
+  --color-text: #404040;
+  --space-card: 1rem;
+  --radius-card: .5rem;
+}
+body { color: #404040; background: #f1f1f1; font-family: Arial, sans-serif; line-height: 1.5; }
+header { padding: 2rem; background: #8c1d40; color: #ffffff; }
+.eyebrow { color: #ffc627; font-weight: 700; }
+main { display: grid; gap: 1rem; max-width: 70rem; margin: 2rem auto; padding: 0 1rem; }
+.card { padding: 1rem; background: #ffffff; border: 1px solid #d0d0d0; border-radius: .5rem; }
+img { display: block; max-width: 100%; height: auto; }
+a { color: #8c1d40; }
+button, .button { display: inline-block; padding: .75rem 1rem; background: #8c1d40; color: #ffffff; border-radius: .25rem; font-weight: 700; }
+form { display: grid; gap: .75rem; max-width: 28rem; }
+input { padding: .75rem; border: 1px solid #747474; }
+.theme-alt { /* TODO: redefine semantic tokens here, then consume them above. */ }
